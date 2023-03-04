@@ -1,0 +1,44 @@
+body{
+    background-image:url('images/lolworldbackground.png');
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19pt;
+    background-size:cover;
+    color: purple;
+}
+
+table{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: plum;
+    border-spacing: 5px;
+    width: 100%
+}
+
+td{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: plum;
+    text-align: center;
+}
+
+table tr.lol{
+    background-color: rgba(216, 112, 147, 0.299);
+}
+
+table tr.omg{
+    background-color: rgba(240, 255, 255, 0.381);
+}
+
+a{
+    color: royalblue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: purple;
+}
+
+a:activw{
+    color:blueviolet;
+}
